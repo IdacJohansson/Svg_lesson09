@@ -1,9 +1,9 @@
-<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
-    <symbol id="black-enevlope">
-<svg width="200" height="100" viewBox="0 0 200 100"  xmlns="http://www.w3.org/2000/svg">
-        <rect width="100" height="50" x="30" y="10" rx="0" ry="0" fill="green" stroke="black" stroke-width="7" />
-        <line x1="30" y1="10" x2="80" y2="40" stroke="black" stroke-width="7" stroke-linecap="round" />
-        <line x1="130" y1="10" x2="80" y2="40" stroke="black" stroke-width="7" stroke-linecap="round" />
-      </svg>
-    </symbol>
+<svg class="envelope-svg" width="100" height="50" viewBox="0 0 120 60" xmlns="http://www.w3.org/2000/svg">
+<symbol id="white-envelope">
+    <rect width="100" height="50" x="10" y="5" rx="2" ry="2" fill="none" stroke="white" stroke-width="7" />
+    <line x1="10" y1="5" x2="60" y2="30" stroke="white" stroke-width="7" stroke-linecap="round" />
+    <line x1="110" y1="5" x2="60" y2="30" stroke="white" stroke-width="7" stroke-linecap="round" />
+</symbol>
 </svg>
+
+
