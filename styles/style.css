@@ -1,0 +1,4 @@
+.container-envelopes{
+    display: flex;
+    flex-direction: column;
+}
