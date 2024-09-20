@@ -1,4 +1,13 @@
-.container-envelopes{
-    display: flex;
-    flex-direction: column;
+body {
+  background-color: #e3e4db;
+}
+
+.container-envelopes {
+  display: flex;
+  flex-direction: row;
+}
+
+.container-smiley {
+  display: flex;
+  flex-direction: row;
 }
