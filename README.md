@@ -1,1 +1,3 @@
-# svg_lesson09
+# SVG's
+
+A project to practise SVG.
